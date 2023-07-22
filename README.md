@@ -155,7 +155,7 @@ image (if there are any) and update image metadata.
 
 ## Demo
 
-![Demo](/docs/demo.gif)
+![Demo](/docs/demo.webm)
 
 ## Tutorial
 
